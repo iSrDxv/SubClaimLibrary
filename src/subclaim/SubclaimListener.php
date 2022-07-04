@@ -4,7 +4,10 @@ namespace subclaim;
 
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
-pocketmine\event\player\PlayerInteractEvent;
+use pocketmine\event\player\PlayerInteractEvent;
+use pocketmine\block\tile\Chest;
+use pocketmine\block\tile\Sign;
+use pocketmine\block\tile\Tile;
 
 class SubclaimListener implements Listener {
 
