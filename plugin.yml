@@ -1,0 +1,6 @@
+name: SubclaimLib
+version: 1.0.0
+api: 4.0.0
+description: Subclaim System for Infinity
+main: subclaim\SubClaim
+author: Wally_Pacmero
